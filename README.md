@@ -4,7 +4,7 @@
 The firewall-blacklist project provides a set of scripts to manage IP address blacklisting using iptables on Linux systems. The project includes tools for adding IPs to a blacklist, applying the blacklist to iptables, and flushing iptables rules. 
 
 # Scripts
-1. add_to_blacklist.sh
+# 1. add_to_blacklist.sh
 Adds an IP address to the blacklist.txt file.
 Usage:
 ```bash
