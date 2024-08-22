@@ -55,5 +55,9 @@ chmod +x add_to_blacklist.sh apply_blacklist.sh flush_iptables.sh
 ```bash
 ./flush_iptables.sh
 ```
+
+# Example of Usage
+<img src="https://github.com/AsT002/firewall-blacklist/blob/main/Screenshot%202024-08-22%20at%201.50.36%20PM.png">
+
 # Notes
 * Permissions: Ensure you run the scripts with sufficient permissions (typically with sudo or as the root user) to modify iptables rules.
